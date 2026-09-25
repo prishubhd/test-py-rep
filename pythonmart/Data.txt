@@ -1,0 +1,20 @@
+1,GI Wire,Nepal Wire,1100,kg,140
+2,Marble Slab,Royal Marble,600,kg,180
+3,Roof Tiles,Everest Tiles,2500,quantity,65
+4,Bathroom Faucet,Jaquar,120,quantity,2800
+5,Toilet Seat,Hindware,60,quantity,7800
+6,Interior Paint,Nerolac,300,quantity,2800
+7,Paint Roller,Asian Paints,500,quantity,280
+8,Paint Brush 4 inch,Local Brand,450,quantity,320
+9,Wood Glue,Fevicol,450,quantity,350
+10,Hammer,Stanley,200,quantity,950
+11,Shovel,Trishul Tools,150,quantity,850
+12,Adjustable Wrench,Total Tools,150,quantity,1400
+13,Screwdriver Set,Ingco,180,quantity,750
+14,Electric Drill,Bosch,60,quantity,8500
+15,Measuring Tape 5m,Stanley,300,quantity,450
+16,Wheelbarrow,Reliable Tools,50,quantity,4200
+17,Cement Mixer Machine,Honda,10,quantity,95000
+18,Safety Helmet,3M,250,quantity,700
+19,Safety Gloves,3M,500,quantity,180
+20,Safety Goggles,Total Safety,350,quantity,250

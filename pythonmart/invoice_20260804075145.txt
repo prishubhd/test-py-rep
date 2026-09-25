@@ -1,0 +1,8 @@
+PythonMart Hardware Store
+Customer Name: Prajwal
+Product Name: GI Wire
+Brand: Nepal Wire
+Unit: kg
+Quantity: 100
+Discount: Rs.700.0
+Total Amount: Rs.13300.0

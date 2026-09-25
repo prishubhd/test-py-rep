@@ -1,0 +1,13 @@
+-------BuiltMart Invoice--------
+Date and Time: 2026-08-21 08:18:07.631544
+Customer: prishu
+----------------------------------------
+Product: Bathroom Faucet
+Brand: Jaquar
+Quantity: 4
+Type: quantity
+Price: Rs 11200.0
+Discount: Rs 0.0
+Final Cost: Rs 11200.0
+----------------------------------------
+Grand Total: Rs 11200.0

@@ -1,0 +1,13 @@
+-------BuiltMart Invoice--------
+Date and Time: 2026-08-21 08:10:46.389598
+Customer: prishu
+----------------------------------------
+Product: GI Wire
+Brand: Nepal Wire
+Quantity: 20
+Type: kg
+Price: Rs 2800.0
+Discount: Rs 0.0
+Final Cost: Rs 2800.0
+----------------------------------------
+Grand Total: Rs 2800.0
